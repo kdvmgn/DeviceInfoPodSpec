@@ -1,2 +1,2 @@
-# DeviceInfoPodSpec
-DeviceInfo PodSpec repository
+# DeviceSpecPodSpec
+DeviceSpec PodSpec repository
